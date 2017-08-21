@@ -1,4 +1,4 @@
-Diagonal Sudoku Solver
+## Diagonal Sudoku Solver
 
 ### Install
 
